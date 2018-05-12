@@ -13,6 +13,8 @@ creator:
     - http://www.gutenberg.org/browse/authors/u#a49
     - http://en.wikipedia.org/wiki/Anonymity
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17289#The-Dance--by-An-Antiquary-Historic-Illustrations-of-Dancing-from-3300-B.C.-to-1911-A.D.
 gutenberg_bookshelf: Art
 gutenberg_issued: '2005-12-12'
 gutenberg_type: Text
